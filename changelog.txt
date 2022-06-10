@@ -1,0 +1,165 @@
+Gigaland 2.1
+New added: seamlessly NFT item loader
+
+Gigaland 2.0.1
+New added: Homepage Wide 2 (wide_index-2.html)
+
+Gigaland 2.0
+New added: wide layouts option
+New added: items 5 columns
+New added: megamenu
+New added: masonry carousel
+New added: Homepage wide (wide_index.html)
+New added: Explore wide (wide_explore.html)
+New added: sticky image on item details page
+New added: top sellers dropdown
+New added: hot collections dropdown
+
+Gigaland 1.9.4
+New added: Homepage Clivus 4 (06_clivus-index-4.html)
+
+Gigaland 1.9.3
+New added: video support for NFT item (explore-video.html)
+
+Gigaland 1.9.2
+New added: Homepage Clivus 3 (06_clivus-index-3.html)
+New added: gradient color scheme (css/colors/scheme-09.css)
+New added: custom font (css/custom-font-1.css)
+
+Gigaland 1.9.1
+New added: Homepage Light 9 (index-9.html)
+
+Gigaland 1.9.0
+New added: Homepage Clivus 2 (06_clivus-index-2.html)
+
+Gigaland 1.8.9
+New added: Homepage Light 8 (index-8.html)
+
+Gigaland 1.8.8
+New added: Gigaland Clivus (06_clivus-index.html)
+
+Gigaland 1.8.7
+New added: Homepage Music NFT (05_black-index-3.html)
+New added: News Single (05_black-news-single.html)
+== Modified files: ==
+css/style.css
+css/de-black.css
+
+Gigaland 1.8.6
+New added: Homepage Music NFT (index-7.html)
+
+Gigaland 1.8.5
+New added: NFT item price on item details page (all schemes)
+
+Gigaland 1.8.4
+New added: Music NFT Explore page (all schemes)
+New added: Music NFT item details page (all schemes)
+
+Gigaland 1.8.3
+New added: Gigaland Black
+Fixes for some css error messages on console (Visual Studio Code)
+
+Gigaland 1.8.2
+New added: cookies consent popup (index.html)
+Fixes for dropdown overlap on mobile (explore page)
+
+Gigaland 1.8.1
+New added: NFT item properties on item details page (light, dark, grey & retro)
+New added: NFT collection name on item details page (light, dark, grey & retro)
+New added: custom menu and notification to a logged user (dark and retro scheme)
+Fixes for NFT item popup button position for RTL mode
+
+Gigaland 1.8.0
+New added: RTL support
+
+Gigaland 1.7.0
+New added: custom menu and notification to a logged user
+
+Gigaland 1.6.9
+New added: tooltips for each NFT item profile picture
+
+Gigaland 1.6.8
+New added: profile page (light, dark, grey and retro)
+
+Gigaland 1.6.7
+New added: homepage 4 (grey)
+
+Gigaland 1.6.6
+New added: 'Buy Now' and 'Place a Bid' buttons and popups on the item details page (light, dark, grey & retro)
+
+Gigaland 1.6.5
+New added: homepage 6 (light)
+
+Gigaland 1.6.4
+New added: collectible options page (dark & retro)
+New added: create single collectible page (dark & retro)
+New added: create multiple collectible page (dark & retro)
+
+Gigaland 1.6.3
+New added: collectible options page (light & grey)
+New added: create single collectible page (light & grey)
+New added: create multiple collectible page (light & grey)
+
+Gigaland 1.6.2
+New added: homepage 5 (light)
+
+Gigaland 1.6.1
+New added: share buttons for each nft item
+New added: extra popup buttons for each nft item
+
+Gigaland 1.6
+New added: Gigaland Retro (14 pages)
+
+Gigaland 1.5.8
+New fields added to create pages (light, dark and grey). 'Unlock once purchased' and 'Choose collection'
+
+Gigaland 1.5.7
+New added help center pages (light, dark and grey)
+
+Gigaland 1.5.6
+New added rankings pages (light, dark and grey)
+
+Gigaland 1.5.5
+New added live auction pages (light, dark and grey)
+
+Gigaland 1.5.4
+New added to "create" page: price method tab and datepicker
+Fixes for navigation on small screens
+
+Gigaland 1.5.3
+New added: alternative explore pages (light, dark and grey)
+
+Gigaland 1.5.2
+New added: grey homepage 3
+
+Gigaland 1.5.1
+New added: grey homepage 2
+
+Gigaland 1.5
+New added: grey scheme pages (9 pages)
+Some styling improvements
+
+Gigaland 1.4
+New added: wallet pages (light, dark and grey)
+
+Gigaland 1.3
+New added: grey homepage
+New theme style added (de-grey.css)
+
+Gigaland 1.2
+New added: homepage 4 dark
+New arrow navigation for carousel
+
+Gigaland 1.1
+New added: Homepage 4
+New item carousel big
+New scheme color
+
+Gigaland 1.0.2
+New added: "Create" page (light & dark)
+New font styles
+Some styling improvements
+
+Gigaland 1.0.1
+- New added items carousel
+- New countdown styling
